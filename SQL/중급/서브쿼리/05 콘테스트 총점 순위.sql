@@ -1,3 +1,4 @@
+-- mysql.ver
 SELECT
     hackers.hacker_id,
     hackers.name,
